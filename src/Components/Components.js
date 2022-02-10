@@ -10,6 +10,7 @@ const Container = styled.div`
     background-color: #ffffff;
     color: ${props=>props.color};
     border-radius: 10px;
+    cursor: pointer;
 `;
 
 const Icon = styled.div`

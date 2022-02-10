@@ -9,8 +9,12 @@ import "../App.css";
 
 
 const HomeScreen = () =>{
+    
+    
+    
+    
     return(
-        <div className="parent">
+        <div className="parent" >
             <Container className="container" color="#f14964">
                 <Icon><HomeOutline size={32} /></Icon>
                 <Label>Home</Label>
